@@ -1,0 +1,55 @@
+@media (max-width:575px) {
+.toparea { text-align: center;}
+}
+@media (max-width:1199px) {
+  .searcharea input { width: 87%}
+
+  .singleslide img {
+    height: 250px;}
+    .specialp1{height: 350px;}
+
+}
+@media (max-width:767px) {
+  .logoarea {
+    text-align: center;}
+    .logoarea img { float: none}
+    .mainmenuarea ul li a {
+    padding: 10px 10px; }
+    .singleslide h2 {
+      top: 30px;
+      left: 70px;
+      font-size: 16px;
+    }
+
+    .singleslide .callta {
+      top: 70px;
+      left: 70px;
+      font-size: 16px;
+
+    }
+
+}
+@media (max-width:991px) {
+    .footbox input { width: 71%}
+    .progall .mainpic img{
+
+      width: 460px;
+      height: 370px;
+}
+@media (max-width:344px) {
+.pagenumbers a {
+
+  padding: 5px 10px;
+
+}}
+
+@media (max-width:500px) {
+.specialp{
+  background-color: #ffffff;
+  box-shadow: 1px 1px 20px 0px rgba(0, 0, 0, 0.1);
+  height: 360px;}}
+  @media (max-width:1199px){
+  .singlecontainp .pgalery{
+    width: 18%;
+  }
+  }
